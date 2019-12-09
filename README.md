@@ -1,4 +1,5 @@
-# WolfofWallStreet
+
+
 Bank Marketing Data Analysis and Classification Prediction
 
 Project Description: In this project, I will be using a Bank Marketing Data Set from UC Irvine machine learning repository. There are 45211 records (clients) in the dataset and each record will have 17 Attributes. The goal of this project is to test out different models and see which model will yield a better accuracy in determining which client will subscribe a term deposit at the Bank.
